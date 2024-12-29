@@ -1,3 +1,4 @@
+//to find basic salary of a person
 #include<stdio.h>
 int main(){
     float n_salary,b_salary;
