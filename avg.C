@@ -1,3 +1,4 @@
+//to  find avg of three num
 #include<stdio.h>
 int main()
 {
